@@ -5,5 +5,8 @@ public class Main {
         Payments payment = new Payments();
         payment.pay(1000);
 
+        String metrika = "Yandex metrika";
+        System.out.println(metrika);
+
     }
 }
