@@ -7,6 +7,8 @@ public class Main {
 
         String metrika = "Yandex metrika";
         System.out.println(metrika);
+        String analytics = "Gugol analytics";
+        System.out.println(analytics);
 
     }
 }
